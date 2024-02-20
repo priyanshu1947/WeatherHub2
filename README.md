@@ -1,32 +1,31 @@
-Weather Application Using React JS and Weather API
+# WeatherHub 2
 
-The Weather Application Using React JS and Weather API is a web application developed in the React JS platform. It allows users to check real-time weather conditions for a specific location by fetching data from a weather API.
+## Overview
+WeatherHub 2 is a React-based application that provides real-time weather details for any city. It leverages a weather API to fetch and display the current weather conditions.
 
-Here’s a detailed explanation of the project:
+## Features
+- **Search Functionality**: Users can search for any city to get the current weather conditions.
+- **Real-Time Data**: The application fetches real-time data from a weather API.
 
-Features
+## Installation and Setup
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Install the necessary dependencies with `npm install`.
+4. Start the application with `npm start`.
 
-Search Functionality: * Users can enter the name of a city to retrieve weather information. * The application displays details such as temperature, weather description (e.g., “clear sky”), and wind speed.
+## Usage
+Enter the name of the city in the search bar and press enter. The application will display the current weather conditions for the specified city.
 
-Live Weather Data:
+## Technologies Used
+- **React JS**: A JavaScript library for building user interfaces.
+- **Weather API**: An API used to fetch real-time weather data.
 
-* The project integrates with a weather API to provide up-to-date weather conditions.
-* Users can review the weather conditions for their desired location.
-Technologies Used
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-**Front End:** React JS
-**Back End:** Weather API
-**Programming Languages:** HTML, CSS
-**Development Environment:** Visual Studio Code (VS Code)
-How to Run the Project
+## Screenshots:
+![image](https://github.com/priyanshu1947/WeatherHub2/assets/70458921/429bd0db-4745-4a56-9ec5-81f31ec83463)
+![image](https://github.com/priyanshu1947/WeatherHub2/assets/70458921/eaf86f9e-27ce-4436-bba5-f7c745311327)
 
-* Clone this repository to your local machine.
-* Open the project in VS Code or any other code editor.
-* Install the necessary dependencies (if any).
-* Run the project using the command npm start or yarn start.
-* Access the application in your web browser.
-Usage
 
-* Enter the name of a city in the search bar.
-* View the weather information for that city, including temperature, weather description, and wind speed.
-* Feel free to customize and enhance this project further.
+
